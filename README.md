@@ -9,6 +9,7 @@
     :email:	zeeshanayaz1@gmail.com <br>
     :art: Portfolio: https://zeeshanayaz.github.io <br>
     :briefcase: LinkedIn: https://linkedin.com/in/zeeshanayaz <br>
+    :usd: Upwork: https://www.upwork.com/freelancers/~011a4b77e14b069d3b <br>
   </samp>
 </p>
 
