@@ -11,8 +11,7 @@
     :art: Portfolio: https://zeeshanayaz.github.io <br>
     :briefcase: LinkedIn: https://linkedin.com/in/zeeshanayaz <br>
     💲 Upwork: https://www.upwork.com/freelancers/~011a4b77e14b069d3b <br>
-   [![Linkedin: ZeeshanAyaz](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/zeeshanayaz/)][linkedin]
-   
+    
   </samp>
 </p>
 
