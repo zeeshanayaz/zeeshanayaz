@@ -9,7 +9,7 @@
     </p>
    
    <p align="center">
-    🔥 26 Year's Old Software Developer grinding hard to make something cool  <br>
+    🔥 Software Engineer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: Kotlin, Flutter ... <br>
     :notebook: I’m currently learning Advance Android Development... <br>
     :email:	zeeshanayaz1@gmail.com <br>
