@@ -1,9 +1,17 @@
 <!-- <img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20%20(1).png"/> -->
- <hr></hr>
+
+</hr>
+
 <p align="center">
-  <samp>
    <h1 align="center"> Hi 👋, I'm <a href="https://zeeshanayaz.github.io/">Muhammad Zeeshan Ayaz!</a></h1>
-    <br>
+   
+    <p align="center">
+      <a target="_blank"href="https://www.linkedin.com/in/zeeshanayaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="mailto:zeeshanayaz1@gmail.com?subject=Hello%20Muhammad Zeeshan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a target="_blank"href="https://stackoverflow.com/users/6761436/zeeshan-ayaz"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+   
+   <p align="center">
     🔥 26 Year's Old Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: Kotlin, Flutter ... <br>
     :notebook: I’m currently learning Advance Android Development... <br>
@@ -11,8 +19,5 @@
     :art: Portfolio: https://zeeshanayaz.github.io <br>
     :briefcase: LinkedIn: https://linkedin.com/in/zeeshanayaz <br>
     💲 Upwork: https://www.upwork.com/freelancers/~011a4b77e14b069d3b <br>
-    
-  </samp>
+    </p>
 </p>
-
-<!-- ![enter image description here](https://github-readme-stats.vercel.app/api?username=zeeshanayaz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) -->
