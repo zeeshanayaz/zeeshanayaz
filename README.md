@@ -11,7 +11,7 @@
    <p align="center">
     🔥 Software Engineer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: Kotlin, Flutter ... <br>
-    :notebook: I’m currently learning Advance Android Development... <br>
+    :notebook: I’m currently learning Advance Mobile App Development... <br>
     :email:	zeeshanayaz1@gmail.com <br>
     :art: Portfolio: https://zeeshanayaz.github.io <br>
     :briefcase: LinkedIn: https://linkedin.com/in/zeeshanayaz <br>
