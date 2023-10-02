@@ -22,5 +22,13 @@
     💲 Upwork: https://www.upwork.com/freelancers/~011a4b77e14b069d3b <br>
 </p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanayaz&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="zeeshanayaz" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanayaz&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="zeeshanayaz" />
+</p>
 <br/>
+<hr/>
+
+### 🏆 Hacktoberfest Badges
+<a href="https://holopin.io/@zeeshanayaz">
+  <img src="https://holopin.me/zeeshanayaz" alt="An image of @zeeshanayaz's Holopin badges, which is a link to view their full Holopin profile"/>
+</a>
