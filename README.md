@@ -1,3 +1,8 @@
+<p align="left">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=zeeshanayaz&label=Profile%20Views&color=3&icon=5&pretty=true" />
+  </a>
+</p>
 
 <h1 align="center"> Hi 👋, I'm <a href="https://zeeshanayaz.github.io/">Muhammad Zeeshan Ayaz!</a></h1>
 
@@ -16,3 +21,6 @@
     :briefcase: LinkedIn: https://linkedin.com/in/zeeshanayaz <br>
     💲 Upwork: https://www.upwork.com/freelancers/~011a4b77e14b069d3b <br>
 </p>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanayaz&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="zeeshanayaz" /></p>
+<br/>
