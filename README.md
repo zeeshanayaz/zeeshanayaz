@@ -17,3 +17,10 @@
     :briefcase: LinkedIn: https://linkedin.com/in/zeeshanayaz <br>
     💲 Upwork: https://www.upwork.com/freelancers/~011a4b77e14b069d3b <br>
     </p>
+
+    ![zeeshanayaz stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanayaz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+    
+### Stats Card
+    [![zeeshanayaz stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeeshanayaz\&layout=compact)](https://github.com/zeeshanayaz/github-readme-stats)
+
