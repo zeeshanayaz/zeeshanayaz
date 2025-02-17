@@ -28,7 +28,7 @@
 
 <br>
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="assets/code.gif" width="450" height="300" />
 
 #### 🚀 About Me
 
