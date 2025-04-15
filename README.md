@@ -36,8 +36,8 @@
 - 🌱 Currently learning **Data Science** and **Machine Learning**
 - 💻 Tech Stack: Flutter, Dart, Kotlin, Python ...
 - 💲 Available for freelance work on **[Upwork][upwork]**
-- 📫 Reach me at: [zeeshanayaz1@gmail.com](mailto:zeeshanayaz1@gmail.com)
-- 👀 Wanna see my work? Check out my [Portfolio][profile]
+- 📫 Reach me at: **[zeeshanayaz1@gmail.com](mailto:zeeshanayaz1@gmail.com)**
+- 👀 Wanna see my work? Check out my **[Portfolio][profile]**
 
 
 <br>
