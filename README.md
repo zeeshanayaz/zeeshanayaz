@@ -36,6 +36,7 @@
 - 🌱 Currently learning **Data Science** and **Machine Learning**
 - 💻 Tech Stack: Flutter, Dart, Kotlin, Python ...
 - 💲 Available for freelance work on **[Upwork][upwork]**
+- 👀 Always open to contributing to open-source projects
 - 📫 Reach me at: **[zeeshanayaz1@gmail.com](mailto:zeeshanayaz1@gmail.com)**
 - 👀 Wanna see my work? Check out my **[Portfolio][profile]**
 
@@ -52,6 +53,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-008000?style=for-the-badge&logo=Kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
