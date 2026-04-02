@@ -35,7 +35,7 @@
 - 🔥 Software Engineer | Mobile App Developer | Aspiring Data Scientist
 - 🌱 Currently learning **Data Science** and **Machine Learning**
 - 💻 Tech Stack: Flutter, Dart, Kotlin, Python ...
-- 💲 Available for freelance work on **[Upwork][upwork]**
+- 💲 Available for freelance work on **[Upwork][upwork]**, **[Fiverr][fiverr]**
 - 👀 Always open to contributing to open-source projects
 - 📫 Reach me at: **[zeeshanayaz1@gmail.com](mailto:zeeshanayaz1@gmail.com)**
 - 👀 Wanna see my work? Check out my **[Portfolio][profile]**
@@ -85,5 +85,6 @@
 </a> -->
 
 [upwork]: https://www.upwork.com/freelancers/~011a4b77e14b069d3b
+[fiverr]: https://www.fiverr.com/zeeshanayaz1
 [linkedin]: https://linkedin.com/in/zeeshanayaz
 [profile]: https://zeeshanayaz.github.io
